@@ -1,0 +1,14 @@
+C:\Users\Mohamed Amr\source\repos\oop2\bin\Debug\net8.0\libirarytask.exe
+C:\Users\Mohamed Amr\source\repos\oop2\bin\Debug\net8.0\libirarytask.deps.json
+C:\Users\Mohamed Amr\source\repos\oop2\bin\Debug\net8.0\libirarytask.runtimeconfig.json
+C:\Users\Mohamed Amr\source\repos\oop2\bin\Debug\net8.0\libirarytask.dll
+C:\Users\Mohamed Amr\source\repos\oop2\bin\Debug\net8.0\libirarytask.pdb
+C:\Users\Mohamed Amr\source\repos\oop2\obj\Debug\net8.0\libirarytask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Amr\source\repos\oop2\obj\Debug\net8.0\libirarytask.AssemblyInfoInputs.cache
+C:\Users\Mohamed Amr\source\repos\oop2\obj\Debug\net8.0\libirarytask.AssemblyInfo.cs
+C:\Users\Mohamed Amr\source\repos\oop2\obj\Debug\net8.0\libirarytask.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Amr\source\repos\oop2\obj\Debug\net8.0\libirarytask.dll
+C:\Users\Mohamed Amr\source\repos\oop2\obj\Debug\net8.0\refint\libirarytask.dll
+C:\Users\Mohamed Amr\source\repos\oop2\obj\Debug\net8.0\libirarytask.pdb
+C:\Users\Mohamed Amr\source\repos\oop2\obj\Debug\net8.0\libirarytask.genruntimeconfig.cache
+C:\Users\Mohamed Amr\source\repos\oop2\obj\Debug\net8.0\ref\libirarytask.dll
